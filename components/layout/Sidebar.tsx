@@ -49,9 +49,6 @@ const Sidebar = () => {
             placeholder="Find a repository..."
             className="input h-7 py-1 pl-8 text-xs w-full bg-card"
           />
-          <svg className="absolute left-2.5 top-1.5 h-3.5 w-3.5 text-muted-foreground" viewBox="0 0 16 16" fill="currentColor">
-            <path d="M10.68 11.74a6 6 0 01-7.922-8.982 6 6 0 018.982 7.922l3.04 3.04a.749.749 0 01-.326 1.275.749.749 0 01-.734-.215l-3.04-3.04zM11.5 7a4.499 4.499 0 10-8.997 0A4.499 4.499 0 0011.5 7z"></path>
-          </svg>
         </div>
         
         <ul className="space-y-1">
@@ -86,9 +83,6 @@ const Sidebar = () => {
             placeholder="Find a team..."
             className="input h-7 py-1 pl-8 text-xs w-full bg-card"
           />
-          <svg className="absolute left-2.5 top-1.5 h-3.5 w-3.5 text-muted-foreground" viewBox="0 0 16 16" fill="currentColor">
-            <path d="M10.68 11.74a6 6 0 01-7.922-8.982 6 6 0 018.982 7.922l3.04 3.04a.749.749 0 01-.326 1.275.749.749 0 01-.734-.215l-3.04-3.04zM11.5 7a4.499 4.499 0 10-8.997 0A4.499 4.499 0 0011.5 7z"></path>
-          </svg>
         </div>
         
         <ul className="space-y-1">
